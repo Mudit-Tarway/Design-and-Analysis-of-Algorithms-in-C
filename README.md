@@ -13,6 +13,8 @@ Sorting Algorithms – Bubble Sort, Insertion Sort, Selection Sort.
 
 Divide and Conquer – Merge Sort , Finding Max and Min element.
 
+Greedy - Fractional Kanpsack
+
 Other Important Algorithms – as covered in coursework.
 
 
