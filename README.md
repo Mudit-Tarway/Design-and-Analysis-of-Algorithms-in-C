@@ -11,7 +11,7 @@ The repository is organized into different categories of algorithms:
 
 Sorting Algorithms – Bubble Sort, Insertion Sort, Selection Sort.
 
-Divide and Conquer – Merge Sort , Finding Max and Min element.
+Divide and Conquer – Merge Sort , Finding Max and Min element , Find matrix multiplication , Quick Sort.
 
 Greedy - Fractional Kanpsack
 
