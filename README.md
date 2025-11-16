@@ -11,9 +11,11 @@ The repository is organized into different categories of algorithms:
 
 Sorting Algorithms – Bubble Sort, Insertion Sort, Selection Sort.
 
-Divide and Conquer – Merge Sort , Finding Max and Min element , Find matrix multiplication , Quick Sort.
+Divide and Conquer – Merge Sort , Finding Max and Min element , Matrix multiplication , Quick Sort.
 
-Greedy - Fractional Kanpsack , Minimum Spanning Tree(Prims amd Krushkal's)
+Greedy - Fractional Kanpsack , Minimum Spanning Tree(Prims amd Krushkal's).
+
+Graph - Dijsktra , Floyd Warshall , BFS , DFS.
 
 Other Important Algorithms – as covered in coursework.
 
